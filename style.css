@@ -2,6 +2,7 @@
     width: 100%;
     max-width: 1200px;
     height: 100vh;
+    margin: 0 auto;
     background-image: url(../images/raeta.jpg);
     background-repeat: no-repeat;
     background-position: center;
