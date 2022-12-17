@@ -6,6 +6,7 @@
     background-position: center;
     background-size: cover;
     padding: 15px;
+    box-sizing: border-box;
 }
 /*header*/
 .my_foto{
@@ -16,10 +17,52 @@
     display: flex;
     justify-content: space-between;
 }
-h2,h3{
+h2{
     padding: 0;
     margin: 0;
+    font-size: 18px;
 }
+h3{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+
+
+
+
 .name{
     text-align: center;
 }
+/*main*/
+.main_wrap_one{
+    display: flex;
+    justify-content: space-between;
+}
+.main_wrap_two{
+    display: flex;
+    justify-content: space-between;
+}
+.main_wrap_three{
+    display: flex;
+    justify-content: space-between;
+}
+/*footer*/
+.logors{
+    width: 50px;    
+}
+.footer_wrap_all{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
