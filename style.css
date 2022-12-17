@@ -1,0 +1,74 @@
+.wrap{
+    width: 100%;
+    max-width: 1200px;
+    height: 100vh;
+    margin: 0 auto;
+    background-image: url(images/raeta.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 15px;
+    box-sizing: border-box;
+}
+/*header*/
+.my_foto{
+    width: 100px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    text-decoration: underline;
+}
+a{
+    text-decoration:none
+}
+h3{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+
+
+
+
+.name{
+    text-align: center;
+}
+/*main*/
+.main_wrap_one{
+    display: flex;
+    justify-content: space-between;
+}
+.main_wrap_two{
+    display: flex;
+    justify-content: space-between;
+}
+.main_wrap_three{
+    display: flex;
+    justify-content: space-between;
+}
+/*footer*/
+.logors{
+    width: 50px;    
+}
+.footer_wrap_all{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
