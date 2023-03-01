@@ -36,7 +36,8 @@ for(let i; i < text.length; i++){
 
 ---
 # __Education__ 
-
+* ### St. petersburg state forestry Engineering University named after S. M. kirov
+* ### Bobruisk State Forestry Technical College
 
 ---
 # __English language__
