@@ -21,10 +21,10 @@
 
 ---
 
-# __Code Example__
+# __Code Example:__
 #### _In order to find what we need in the code, a loop is mainly used. Here is one of the cycle options._
-`const text = [t, e, x, t];
-for(let i; i < text.length; i++){
+`const text = [t, e, x, t];  
+for(let i; i < text.length; i++){  
     alert(text[i]);
 }`
 
