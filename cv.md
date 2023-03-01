@@ -22,7 +22,11 @@
 ---
 
 # __Code Example__
-In order to find what we need in the code, a loop is mainly used. Here is one of the cycle options.
+#### _In order to find what we need in the code, a loop is mainly used. Here is one of the cycle options._
+`const text = [t, e, x, t];
+for(let i; i < text.length; i++){
+    alert(text[i]);
+}`
 
 ---
 
@@ -31,7 +35,8 @@ In order to find what we need in the code, a loop is mainly used. Here is one of
 ---
 # __Education__ 
 
+
 ---
 # __English language__
-* ### __Elementory__ 
+* ### __Elementary__ 
 
