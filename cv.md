@@ -15,10 +15,15 @@
 
 # __Skills__
 * ### __Version control: Git (remote service GitHub)__
+* ### __HTML5__
+* ### __CSS3__
+* ### __VS Code__
 
 ---
 
 # __Code Example__
+In order to find what we need in the code, a loop is mainly used. Here is one of the cycle options.
+
 ---
 
 # __Work experience__
