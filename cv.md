@@ -15,6 +15,7 @@
 
 # __Skills__
 * ### __Version control: Git (remote service GitHub)__
+
 ---
 
 # __Code Example__
@@ -28,4 +29,4 @@
 ---
 # __English language__
 * ### __Elementory__ 
----
+
