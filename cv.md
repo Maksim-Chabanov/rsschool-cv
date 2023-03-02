@@ -1,11 +1,12 @@
 # __Maksim Chabanov__
 ---
 # __Contacts__
-* ### __Address: Slutsk, Minsk region, Republic of Belarus__
-* ### __Phone: +37529 382-70-05__  
-* ### __Email: m4x.ch@yandex.by__ 
-* ### __GitHub: Maksim-Chabanov__ 
-* ### __Discord: Maks.ch (@Maksim-Chabanov)__
+### __Address: Slutsk, Minsk region, Republic of Belarus__
+### __Phone: +37529 382-70-05__  
+### __Email: m4x.ch@yandex.by__ 
+### __GitHub: Maksim-Chabanov__ 
+### __Discord: Maks.ch (@Maksim-Chabanov)__
+### __[Vkontakte][https://maksim-chabanov.github.io/rsschool-cv/cv]__
 
 ---
 
@@ -22,7 +23,7 @@
 ---
 
 # __Code Example:__
-#### _In order to find what we need in the code, a loop is mainly used. Here is one of the cycle options._
+#### _An example of using a loop, the result of each iteration of which will be the display of the contents of the array._
 ```
 const text = [t, e, x, t];  
 for(let i; i < text.length; i++){  
@@ -33,7 +34,7 @@ for(let i; i < text.length; i++){
 ---
 
 # __Work experience__
-### _Taking the JavaScript Front-end Stage 0 course at RS School_
+#### _Taking the JavaScript Front-end Stage 0 course at RS School_
 ![result](Screenshot_1.png) 
 ---
 
@@ -43,5 +44,5 @@ for(let i; i < text.length; i++){
 
 ---
 # __English language__
-* ### __Elementary__ 
+* ### __A1(Elementary)__ 
 
