@@ -6,7 +6,7 @@
 ### __Email: m4x.ch@yandex.by__ 
 ### __GitHub: Maksim-Chabanov__ 
 ### __Discord: Maks.ch (@Maksim-Chabanov)__
-### __[Vkontakte][https://maksim-chabanov.github.io/rsschool-cv/cv]__
+### [Vkontakte](https://maksim-chabanov.github.io/rsschool-cv/cv)
 
 ---
 
