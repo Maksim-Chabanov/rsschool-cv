@@ -33,9 +33,10 @@ for(let i; i < text.length; i++){
 ---
 
 # __Work experience__
-* ### 
+### _Taking the JavaScript Front-end Stage 0 course at RS School_
 ![result](Screenshot_1.png) 
 ---
+
 # __Education__ 
 * ### St. petersburg state forestry Engineering University named after S. M. kirov
 * ### Bobruisk State Forestry Technical College
