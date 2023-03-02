@@ -34,7 +34,7 @@ for(let i; i < text.length; i++){
 
 # __Work experience__
 * ### 
-![result of courses RS School](http://static.diy.ru/media/uploaded/bn/2012/12/19/valyanie-iz-shersti-novogodnyaya-yolka-svoimi-rukami.jpg "опциональный тайтл картинки")
+![result](Screenshot_1.png) 
 ---
 # __Education__ 
 * ### St. petersburg state forestry Engineering University named after S. M. kirov
